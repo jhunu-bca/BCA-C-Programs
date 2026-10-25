@@ -16,7 +16,7 @@ This repository contains my C programming practice for BCA.
 - **Description:** Checks and prints whether a number is odd or even from 1 to 100.
 
 ### 3. Area of The Square 
-- **File:** 'print_area_of_square.c'
+- **File:** `print_area_of_square.c`
 - **Concept:** basic arithmetics
 - **Description:** Prints area of the square.
 
