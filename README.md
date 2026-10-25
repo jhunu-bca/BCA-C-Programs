@@ -15,6 +15,11 @@ This repository contains my C programming practice for BCA.
 - **Concept:** `for` loop, `if-else`, modulus operator `%`
 - **Description:** Checks and prints whether a number is odd or even from 1 to 100.
 
+### 3. Area of The Square 
+- **File:** 'print_area_of_square.c'
+- **Concept:** basic arithmetics
+- **Description:** Prints area of the square.
+
 ## 🚀 How to Run
 ```bash
 gcc file_name.c -o program
